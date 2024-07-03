@@ -1,0 +1,50 @@
+﻿using System;
+
+namespace Mathe
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter a number:");
+            double a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine();
+
+            double b = Math.Pow(a, 2); // pow is the power of the number
+            Console.WriteLine("The power of " + a + " is: " + b);
+            Console.WriteLine();
+
+            double c = Math.Sqrt(a); // Sqprt is the square root number 
+            Console.WriteLine("The square root of " + a + " is: " + c);
+            Console.WriteLine();
+
+            double d = Math.Ceiling(a);//Ceiling is the ceiling number for example a number is 3.14 the ceiling is 4
+            Console.WriteLine("The ceiling number is: " + d);
+            Console.WriteLine();
+
+            double e = Math.Round(a);//Round is the round number for example a number is 3.14 the round number is 3
+            Console.WriteLine("The round number is: " + e);
+            Console.WriteLine();
+
+            double f = Math.Floor(a);//floor nummber is the floor number for example a number is 3.14 the floor number is 3  
+            Console.WriteLine("The floor number is: " + f);
+            Console.WriteLine();
+
+            Console.Write("Enter two numbers:");
+            double x = Convert.ToDouble(Console.ReadLine());
+            double y = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("You entered " + x + " and " + y);
+            Console.WriteLine();
+
+            double g = Math.Max(x, y);
+            Console.WriteLine("The maximum number between " + x + " and " + y + " is: " + g);
+            Console.WriteLine();
+
+            double h = Math.Min(x, y);
+            Console.WriteLine("The minimum number between " + x + " and " + y + " is: " + h);
+
+            Console.ReadKey();
+        }
+    }
+}

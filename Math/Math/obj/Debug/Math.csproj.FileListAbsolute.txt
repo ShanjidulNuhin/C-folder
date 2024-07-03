@@ -1,0 +1,7 @@
+D:\C#\Math\Math\bin\Debug\Math.exe.config
+D:\C#\Math\Math\bin\Debug\Math.exe
+D:\C#\Math\Math\bin\Debug\Math.pdb
+D:\C#\Math\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+D:\C#\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+D:\C#\Math\Math\obj\Debug\Math.exe
+D:\C#\Math\Math\obj\Debug\Math.pdb
