@@ -1,0 +1,7 @@
+D:\C#\StringToNumber\StringToNumber\bin\Debug\StringToNumber.exe.config
+D:\C#\StringToNumber\StringToNumber\bin\Debug\StringToNumber.exe
+D:\C#\StringToNumber\StringToNumber\bin\Debug\StringToNumber.pdb
+D:\C#\StringToNumber\StringToNumber\obj\Debug\StringToNumber.csproj.AssemblyReference.cache
+D:\C#\StringToNumber\StringToNumber\obj\Debug\StringToNumber.csproj.CoreCompileInputs.cache
+D:\C#\StringToNumber\StringToNumber\obj\Debug\StringToNumber.exe
+D:\C#\StringToNumber\StringToNumber\obj\Debug\StringToNumber.pdb
