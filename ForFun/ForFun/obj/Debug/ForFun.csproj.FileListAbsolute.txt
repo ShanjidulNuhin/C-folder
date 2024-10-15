@@ -1,0 +1,7 @@
+D:\Codes\C#\ForFun\ForFun\obj\Debug\ForFun.csproj.AssemblyReference.cache
+D:\Codes\C#\ForFun\ForFun\obj\Debug\ForFun.csproj.CoreCompileInputs.cache
+D:\Codes\C#\ForFun\ForFun\bin\Debug\ForFun.exe.config
+D:\Codes\C#\ForFun\ForFun\bin\Debug\ForFun.exe
+D:\Codes\C#\ForFun\ForFun\bin\Debug\ForFun.pdb
+D:\Codes\C#\ForFun\ForFun\obj\Debug\ForFun.exe
+D:\Codes\C#\ForFun\ForFun\obj\Debug\ForFun.pdb
