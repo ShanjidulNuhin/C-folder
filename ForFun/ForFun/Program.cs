@@ -14,7 +14,7 @@ namespace ForFun
             var name1 = "Aditto";
             var age = 30;
             var loc = "Dhaka";
-            var sal = 30.80;
+            var sal = 30.80D;
 
             var name2 = "Adi";
             var age2 = 20;
