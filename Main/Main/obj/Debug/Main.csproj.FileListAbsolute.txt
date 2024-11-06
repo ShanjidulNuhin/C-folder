@@ -1,0 +1,7 @@
+D:\Courses\C#\Lab\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+D:\Courses\C#\Lab\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\Courses\C#\Lab\Main\Main\bin\Debug\Main.exe.config
+D:\Courses\C#\Lab\Main\Main\bin\Debug\Main.exe
+D:\Courses\C#\Lab\Main\Main\bin\Debug\Main.pdb
+D:\Courses\C#\Lab\Main\Main\obj\Debug\Main.exe
+D:\Courses\C#\Lab\Main\Main\obj\Debug\Main.pdb
