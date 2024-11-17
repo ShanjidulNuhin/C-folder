@@ -1,0 +1,7 @@
+D:\Codes\C#\AcessModifires\AcessModifires\bin\Debug\AcessModifires.exe.config
+D:\Codes\C#\AcessModifires\AcessModifires\bin\Debug\AcessModifires.exe
+D:\Codes\C#\AcessModifires\AcessModifires\bin\Debug\AcessModifires.pdb
+D:\Codes\C#\AcessModifires\AcessModifires\obj\Debug\AcessModifires.csproj.AssemblyReference.cache
+D:\Codes\C#\AcessModifires\AcessModifires\obj\Debug\AcessModifires.csproj.CoreCompileInputs.cache
+D:\Codes\C#\AcessModifires\AcessModifires\obj\Debug\AcessModifires.exe
+D:\Codes\C#\AcessModifires\AcessModifires\obj\Debug\AcessModifires.pdb
