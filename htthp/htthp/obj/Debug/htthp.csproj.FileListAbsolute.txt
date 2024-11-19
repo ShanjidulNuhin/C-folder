@@ -1,0 +1,7 @@
+D:\Codes\C#\htthp\htthp\bin\Debug\htthp.exe.config
+D:\Codes\C#\htthp\htthp\bin\Debug\htthp.exe
+D:\Codes\C#\htthp\htthp\bin\Debug\htthp.pdb
+D:\Codes\C#\htthp\htthp\obj\Debug\htthp.csproj.AssemblyReference.cache
+D:\Codes\C#\htthp\htthp\obj\Debug\htthp.csproj.CoreCompileInputs.cache
+D:\Codes\C#\htthp\htthp\obj\Debug\htthp.exe
+D:\Codes\C#\htthp\htthp\obj\Debug\htthp.pdb
