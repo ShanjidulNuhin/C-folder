@@ -41,6 +41,27 @@ namespace htthp
                     Console.WriteLine();
                 }
             }
+            Console.WriteLine("\n3D\n");
+//3D
+int[][,,] jaggedArr = new int[2][,,];
+jaggedArr[0] = new int[,,] { { { 1, 2, 3, 4 }, { 4, 5, 8, 5, } } };
+jaggedArr[1] = new int[,,] { { { 6, 6, 6 },{ 9, 6,5 } } };
+
+for (int i=0; i<jaggedArr.Length; i++)
+{
+    for(int j =0; j< jaggedArr[i].GetLength(0);j++)
+    {
+        for(int k = 0; k < jaggedArr[i].GetLength(1);k++)
+        {
+            for (int l = 0; l < jaggedArr[i].GetLength(2); l++)
+            {
+                Console.Write(jaggedArr[i][j, k, l] + " ");
+            }
+            Console.WriteLine();
+        }
+    }
+}
+
 
             Console.ReadKey();
         }
