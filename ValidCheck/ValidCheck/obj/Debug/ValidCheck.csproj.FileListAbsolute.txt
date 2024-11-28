@@ -1,0 +1,7 @@
+D:\Codes\C#\ValidCheck\ValidCheck\bin\Debug\ValidCheck.exe.config
+D:\Codes\C#\ValidCheck\ValidCheck\bin\Debug\ValidCheck.exe
+D:\Codes\C#\ValidCheck\ValidCheck\bin\Debug\ValidCheck.pdb
+D:\Codes\C#\ValidCheck\ValidCheck\obj\Debug\ValidCheck.csproj.AssemblyReference.cache
+D:\Codes\C#\ValidCheck\ValidCheck\obj\Debug\ValidCheck.csproj.CoreCompileInputs.cache
+D:\Codes\C#\ValidCheck\ValidCheck\obj\Debug\ValidCheck.exe
+D:\Codes\C#\ValidCheck\ValidCheck\obj\Debug\ValidCheck.pdb
