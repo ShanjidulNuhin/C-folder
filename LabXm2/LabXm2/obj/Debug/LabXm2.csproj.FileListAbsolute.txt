@@ -1,0 +1,7 @@
+D:\Codes\C#\LabXm2\LabXm2\obj\Debug\LabXm2.csproj.AssemblyReference.cache
+D:\Codes\C#\LabXm2\LabXm2\obj\Debug\LabXm2.csproj.CoreCompileInputs.cache
+D:\Codes\C#\LabXm2\LabXm2\bin\Debug\LabXm2.exe.config
+D:\Codes\C#\LabXm2\LabXm2\bin\Debug\LabXm2.exe
+D:\Codes\C#\LabXm2\LabXm2\bin\Debug\LabXm2.pdb
+D:\Codes\C#\LabXm2\LabXm2\obj\Debug\LabXm2.exe
+D:\Codes\C#\LabXm2\LabXm2\obj\Debug\LabXm2.pdb
