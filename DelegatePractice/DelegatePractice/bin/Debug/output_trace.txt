@@ -1,0 +1,6 @@
+File Trace: This is a file trace message.
+File Trace: This message will be traced to both console and file.
+File Trace: This is a file trace message.
+File Trace: This message will be traced to both console and file.
+File Trace: This is a file trace message.
+File Trace: This message will be traced to both console and file.

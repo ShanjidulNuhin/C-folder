@@ -1,0 +1,7 @@
+D:\Codes\C#\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe.config
+D:\Codes\C#\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe
+D:\Codes\C#\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.pdb
+D:\Codes\C#\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csproj.AssemblyReference.cache
+D:\Codes\C#\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csproj.CoreCompileInputs.cache
+D:\Codes\C#\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.exe
+D:\Codes\C#\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.pdb
